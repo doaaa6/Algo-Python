@@ -175,6 +175,7 @@ for iterator in dct:
 **Example:**
 
 ```py
+# dictionnaire ensemble ( key: valeur)
 person = {
     'first_name':'Asabeneh',
     'last_name':'Yetayeh',
